@@ -6,6 +6,11 @@ public class OurFirstCommonClass {
 	int item2;
 
 	int item3;
+
 	int item_amine;
+
+	
+	int item4;
+
 
 }
