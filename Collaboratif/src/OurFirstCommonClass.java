@@ -7,7 +7,7 @@ public class OurFirstCommonClass {
 
 	int item3;
 	
-	int item4;
+	int item4; //hh
 	
 
 }
