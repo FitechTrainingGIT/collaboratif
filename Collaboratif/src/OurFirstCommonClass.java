@@ -7,7 +7,18 @@ public class OurFirstCommonClass {
 	int item2;
 
 	int item3;
-  //  new comments 
+
 	
 	int item22;
+
+
+	int item_amine;
+
+
+	int item4;
+
+	int itemHH; // add hh
+
+	int itemATOM;
+
 }
