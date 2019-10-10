@@ -12,6 +12,6 @@ public class OurFirstCommonClass {
 	
 	int item4;
 	int itemAmin;
-
+    int ami;
 
 }
