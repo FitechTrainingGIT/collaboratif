@@ -7,5 +7,13 @@ public class OurFirstCommonClass {
 	int item2;
 
 	int item3;
-  //  new comments 
+
+
+	int item_amine;
+
+	
+	int item4;
+	int itemAmin;
+    int ami;
+
 }
