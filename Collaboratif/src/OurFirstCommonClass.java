@@ -9,9 +9,11 @@ public class OurFirstCommonClass {
 
 	int item_amine;
 
-	
+
 	int item4;
 
 	int itemHH; // add hh
+
+	int itemATOM;
 
 }
