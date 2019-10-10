@@ -2,10 +2,15 @@
 public class OurFirstCommonClass {
 
 
+
 	int item1;
 	int item2;
 
 	int item3;
+
+	
+	int item22;
+
 
 	int item_amine;
 
