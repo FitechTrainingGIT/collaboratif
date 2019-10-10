@@ -8,4 +8,6 @@ public class OurFirstCommonClass {
 
 	int item3;
   //  new comments 
+	
+	int item22;
 }
